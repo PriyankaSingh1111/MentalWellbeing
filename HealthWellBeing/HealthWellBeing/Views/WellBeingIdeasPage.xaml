@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HealthWellBeing.Views.WellBeingIdeasPage"
+              xmlns:localC="clr-namespace:HealthWellBeing.Views"
+              xmlns:input="clr-namespace:Plugin.InputKit.Shared.Controls;assembly=Plugin.InputKit">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <Label Text="CardView Demo in Xamarin Forms"  
+               FontAttributes="Bold"  
+               FontSize="Medium"  
+               VerticalOptions="Start"  
+               HorizontalTextAlignment="Center"  
+               VerticalTextAlignment="Center"  
+               BackgroundColor="Transparent"  
+               HorizontalOptions="CenterAndExpand" />
+            <Button x:Name="btnBrowse" Text="Click to Browse" Clicked="OnButtonClicked" />
+            <ListView x:Name="listView"   
+                  SelectedItem="{Binding SelcetedItem,Mode=TwoWay}"   
+                  HasUnevenRows="True"  
+                  ItemsSource="{Binding lstUsers}" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <localC:CardViewTemplate/>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

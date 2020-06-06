@@ -1,0 +1,82 @@
+package md5b60ffeb829f638581ab2bb9b1a7f4f3f;
+
+
+public class ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling
+	extends android.support.v4.widget.SwipeRefreshLayout
+	implements
+		mono.android.IGCUserPeer
+{
+/** @hide */
+	public static final String __md_methods;
+	static {
+		__md_methods = 
+			"n_onInterceptTouchEvent:(Landroid/view/MotionEvent;)Z:GetOnInterceptTouchEvent_Landroid_view_MotionEvent_Handler\n" +
+			"n_onNestedScrollAccepted:(Landroid/view/View;Landroid/view/View;I)V:GetOnNestedScrollAccepted_Landroid_view_View_Landroid_view_View_IHandler\n" +
+			"n_onStopNestedScroll:(Landroid/view/View;)V:GetOnStopNestedScroll_Landroid_view_View_Handler\n" +
+			"n_onNestedScroll:(Landroid/view/View;IIII)V:GetOnNestedScroll_Landroid_view_View_IIIIHandler\n" +
+			"";
+		mono.android.Runtime.register ("Xamarin.Forms.Platform.Android.ListViewRenderer+SwipeRefreshLayoutWithFixedNestedScrolling, Xamarin.Forms.Platform.Android, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null", ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.class, __md_methods);
+	}
+
+
+	public ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling (android.content.Context p0)
+	{
+		super (p0);
+		if (getClass () == ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.class)
+			mono.android.TypeManager.Activate ("Xamarin.Forms.Platform.Android.ListViewRenderer+SwipeRefreshLayoutWithFixedNestedScrolling, Xamarin.Forms.Platform.Android, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0 });
+	}
+
+
+	public ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling (android.content.Context p0, android.util.AttributeSet p1)
+	{
+		super (p0, p1);
+		if (getClass () == ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.class)
+			mono.android.TypeManager.Activate ("Xamarin.Forms.Platform.Android.ListViewRenderer+SwipeRefreshLayoutWithFixedNestedScrolling, Xamarin.Forms.Platform.Android, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:Android.Util.IAttributeSet, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0, p1 });
+	}
+
+
+	public boolean onInterceptTouchEvent (android.view.MotionEvent p0)
+	{
+		return n_onInterceptTouchEvent (p0);
+	}
+
+	private native boolean n_onInterceptTouchEvent (android.view.MotionEvent p0);
+
+
+	public void onNestedScrollAccepted (android.view.View p0, android.view.View p1, int p2)
+	{
+		n_onNestedScrollAccepted (p0, p1, p2);
+	}
+
+	private native void n_onNestedScrollAccepted (android.view.View p0, android.view.View p1, int p2);
+
+
+	public void onStopNestedScroll (android.view.View p0)
+	{
+		n_onStopNestedScroll (p0);
+	}
+
+	private native void n_onStopNestedScroll (android.view.View p0);
+
+
+	public void onNestedScroll (android.view.View p0, int p1, int p2, int p3, int p4)
+	{
+		n_onNestedScroll (p0, p1, p2, p3, p4);
+	}
+
+	private native void n_onNestedScroll (android.view.View p0, int p1, int p2, int p3, int p4);
+
+	private java.util.ArrayList refList;
+	public void monodroidAddReference (java.lang.Object obj)
+	{
+		if (refList == null)
+			refList = new java.util.ArrayList ();
+		refList.add (obj);
+	}
+
+	public void monodroidClearReferences ()
+	{
+		if (refList != null)
+			refList.clear ();
+	}
+}

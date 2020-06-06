@@ -1,0 +1,91 @@
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\bin\Debug\netstandard2.0\HealthWellBeing.deps.json
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\bin\Debug\netstandard2.0\HealthWellBeing.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\bin\Debug\netstandard2.0\HealthWellBeing.pdb
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\CardViewTemplate.xaml.g.cs
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\HealthWellBeingPage.xaml.g.cs
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\QuestionList.xaml.g.cs
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\WellBeingIdeasPage.xaml.g.cs
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\WellTrackerPage.xaml.g.cs
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.csproj.CoreCompileInputs.cache
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.AssemblyInfoInputs.cache
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.AssemblyInfo.cs
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.pdb
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\bin\Debug\netstandard2.0\HealthWellBeing.deps.json
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\bin\Debug\netstandard2.0\HealthWellBeing.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\bin\Debug\netstandard2.0\HealthWellBeing.pdb
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.csprojResolveAssemblyReference.cache
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\CardViewTemplate.xaml.g.cs
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\HealthWellBeingPage.xaml.g.cs
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\QuestionList.xaml.g.cs
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\WellBeingIdeasPage.xaml.g.cs
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\WellTrackerPage.xaml.g.cs
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.csproj.CoreCompileInputs.cache
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.AssemblyInfoInputs.cache
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.AssemblyInfo.cs
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\XamlC.stamp
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.pdb
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\bin\Debug\netstandard2.0\HealthWellBeing.deps.json
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\bin\Debug\netstandard2.0\HealthWellBeing.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\bin\Debug\netstandard2.0\HealthWellBeing.pdb
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.csprojAssemblyReference.cache
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\CardViewTemplate.xaml.g.cs
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\HealthWellBeingPage.xaml.g.cs
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\QuestionList.xaml.g.cs
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\WellBeingIdeasPage.xaml.g.cs
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\WellTrackerPage.xaml.g.cs
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.csproj.CoreCompileInputs.cache
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.AssemblyInfoInputs.cache
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.AssemblyInfo.cs
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.pdb
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\bin\Debug\netstandard2.0\HealthWellBeing.deps.json
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\bin\Debug\netstandard2.0\HealthWellBeing.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\bin\Debug\netstandard2.0\HealthWellBeing.pdb
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.csprojAssemblyReference.cache
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\CardViewTemplate.xaml.g.cs
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\HealthWellBeingPage.xaml.g.cs
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\QuestionList.xaml.g.cs
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\WellBeingIdeasPage.xaml.g.cs
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\Views\WellTrackerPage.xaml.g.cs
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.csproj.CoreCompileInputs.cache
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.AssemblyInfoInputs.cache
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.AssemblyInfo.cs
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing\obj\Debug\netstandard2.0\HealthWellBeing.pdb

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HealthWellBeing.Views.ItemsPage"
+              Title="{Binding Title}"
+             x:Name="BrowseItemsPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome to Mental Well Being!"
+                VerticalOptions="Center" 
+                HorizontalOptions="CenterAndExpand" TextColor="Blue" >
+                
+            </Label>
+            <BoxView Color="DarkViolet"  HorizontalOptions="FillAndExpand"  
+                    HeightRequest="1"/>
+            <Grid VerticalOptions="CenterAndExpand"  
+                 Padding="0"  
+                 HorizontalOptions="FillAndExpand"  
+                 BackgroundColor="Transparent">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="1"/>
+
+
+                </Grid.RowDefinitions>
+                <Label x:Name="btnBrowse" Text="Thank you for being part of 'Stop the spread' activity" Grid.Row="0"  VerticalOptions="Center" HorizontalTextAlignment="Center"
+                 TextColor="BlueViolet" />
+               
+                <Image x:Name="ButtonImage"   WidthRequest="100" HeightRequest="100" Source="happy.png" VerticalOptions="Center" HorizontalOptions="Center" Grid.Column="0" Grid.Row="1"  />
+                <BoxView Color="DarkViolet"  HorizontalOptions="FillAndExpand"  
+                    HeightRequest="1" Grid.Row="2" />
+
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+    <!--   <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" Clicked="AddItem_Clicked">
+            <ToolbarItem.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="UWP" Value="add.png"/>
+                </OnPlatform>
+            </ToolbarItem.Icon>
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+
+    <StackLayout>
+        <ListView x:Name="ItemsListView"
+                ItemsSource="{Binding Items}"
+                VerticalOptions="FillAndExpand"
+                HasUnevenRows="true"
+                RefreshCommand="{Binding LoadItemsCommand}"
+                IsPullToRefreshEnabled="true"
+                IsRefreshing="{Binding IsBusy, Mode=OneWay}"
+                CachingStrategy="RecycleElement"
+                ItemSelected="OnItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="10">
+                            <Label Text="{Binding Text}" 
+                                LineBreakMode="NoWrap" 
+                                Style="{DynamicResource ListItemTextStyle}" 
+                                FontSize="16" />
+                            <Label Text="{Binding Description}" 
+                                LineBreakMode="NoWrap"
+                                Style="{DynamicResource ListItemDetailTextStyle}"
+                                FontSize="13" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>-->
+    
+</ContentPage>

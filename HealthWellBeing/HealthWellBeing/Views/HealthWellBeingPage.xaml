@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:input="clr-namespace:Plugin.InputKit.Shared.Controls;assembly=Plugin.InputKit"
+             xmlns:local="clr-namespace:HealthWellBeing.Views" 
+
+    x:Class="HealthWellBeing.Views.HealthWellBeingPage">
+
+    <ContentPage.Content>
+      <ScrollView>        
+        <StackLayout Orientation="Vertical">
+          <Grid
+                 BackgroundColor="Transparent"
+              VerticalOptions="Center" HorizontalOptions="Center" >
+            <Grid.RowDefinitions>
+              <RowDefinition Height="600"/>
+              <RowDefinition Height="35"/>
+
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+              <ColumnDefinition Width="Auto" />
+              <ColumnDefinition Width="Auto" />
+
+              <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <ListView x:Name="listView"   
+                  SelectedItem="{Binding SelcetedItem,Mode=TwoWay}"   
+                  HasUnevenRows="True"  
+                  ItemsSource="{Binding lstQuestions}" Grid.Row="0">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <local:QuestionList/>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+         <!--   <Grid
+                   BackgroundColor="Transparent"
+                VerticalOptions="Center" HorizontalOptions="Center" >
+              <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                
+              </Grid.RowDefinitions>
+
+              <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50" />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>-->
+
+                <Button Text="Submit" Clicked="OnButtonClicked"  BackgroundColor="DarkBlue"  CornerRadius="20" TextColor="White" Grid.Row="1" />
+
+
+         </Grid>
+
+        </StackLayout>
+      </ScrollView>
+
+    </ContentPage.Content>
+</ContentPage>
+<!-- <ContentPage.Content>
+        <StackLayout>
+            <Label Text="What's your favorite color?" Margin="10" />
+            
+            <input:RadioButtonGroupView VerticalOptions="Center" Spacing="12" Padding="30,0">
+                <input:RadioButton Text="Blue" TextFontSize="12" CircleSize="16"  TextColor="Black" CircleColor="Black" />
+                <input:RadioButton Text="Red" TextFontSize="12" CircleSize="16" TextColor="Black" CircleColor="Black" IsChecked="True"/>
+            </input:RadioButtonGroupView>
+            <Label Text="second question" />
+            <input:RadioButtonGroupView VerticalOptions="Center"  Spacing="12" Padding="30,0">
+                <input:RadioButton Text="Blue" TextFontSize="12" CircleSize="20" CircleColor="Black" />
+                <input:RadioButton Text="Red" TextFontSize="12" CircleSize="20" IsChecked="True" CircleColor="Black" />
+            </input:RadioButtonGroupView>
+            <Label Text="third question" />
+            <input:RadioButtonGroupView VerticalOptions="Center"   Spacing="12" Padding="30,0">
+                <input:RadioButton Text="Blue" TextFontSize="12" CircleSize="20" CircleColor="Black" />
+                <input:RadioButton Text="Red" TextFontSize="12" CircleSize="20" IsChecked="True" CircleColor="Black" />
+            </input:RadioButtonGroupView>
+        </StackLayout>
+    </ContentPage.Content>-->
+  <!--  <ContentView>
+        <ScrollView>
+            <StackLayout Orientation="Horizontal" Margin="5,5,5,5" >
+              <Grid x:Name="gridLayout" HorizontalOptions="FillAndExpand"  >
+                    <Grid.RowDefinitions>
+
+                        <RowDefinition Height="25"/>
+                        <RowDefinition Height="25"/>
+                        <RowDefinition Height="10"/>
+                        <RowDefinition Height="200"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="15"/>
+
+
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+
+                        <ColumnDefinition  Width="*"/>
+                      <ColumnDefinition Grid.Row="1" Width="*"/>
+                        <ColumnDefinition Grid.Row="2" Width="*"/>
+                        <ColumnDefinition Grid.Row="3" Width="*"/>
+                        <ColumnDefinition Grid.Row="4" Width="*"/>
+                        <ColumnDefinition Grid.Row="5" Width="*"/>
+                        <ColumnDefinition Grid.Row="6" Width="*"/>
+                        <ColumnDefinition Grid.Row="7" Width="*"/>
+                        <ColumnDefinition   Width="30"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Text="1. I do things slowly" Grid.Row="0" Grid.Column="0"/>
+                    <input:RadioButtonGroupView Orientation="Horizontal" HorizontalOptions="FillAndExpand"   Grid.Row="1" Grid.Column="0">
+                        <input:RadioButton TextFontSize="12"  Text="Not at all" Value="1" CircleSize="14"  />
+                        <input:RadioButton TextFontSize="12" Text="Somewhat" Value="2" CircleSize="14" />
+                        <input:RadioButton TextFontSize="12" Text="Very much" Value="3" CircleSize="14" />
+                    </input:RadioButtonGroupView>
+                    
+                    <Label Text="2. I feel sad, blue, and unhappy." Grid.Row="2" Grid.Column="0"/>
+                    <input:RadioButtonGroupView Orientation="Horizontal" HorizontalOptions="FillAndExpand"   Grid.Row="3" Grid.Column="0">
+                        <input:RadioButton TextFontSize="12"  Text="Not at all" Value="1" CircleSize="14"  />
+                        <input:RadioButton TextFontSize="12" Text="Somewhat" Value="2" CircleSize="14" />
+                        <input:RadioButton TextFontSize="12" Text="Very much" Value="3" CircleSize="14" />
+                    </input:RadioButtonGroupView>
+
+                    <Label Text="3. I feel fatigued" Grid.Row="4" Grid.Column="0"/>
+                    <input:RadioButtonGroupView Orientation="Horizontal" HorizontalOptions="FillAndExpand"   Grid.Row="5" Grid.Column="0">
+                        <input:RadioButton TextFontSize="12"  Text="Not at all" Value="1" CircleSize="14"  />
+                        <input:RadioButton TextFontSize="12" Text="Somewhat" Value="2" CircleSize="14" />
+                        <input:RadioButton TextFontSize="12" Text="Very much" Value="3" CircleSize="14" />
+                    </input:RadioButtonGroupView>
+                    <Label Text="4. I feel nervous, anxious or on edge" Grid.Row="6" Grid.Column="0"/>
+                    <input:RadioButtonGroupView Orientation="Horizontal" HorizontalOptions="FillAndExpand"   Grid.Row="7" Grid.Column="0">
+                        <input:RadioButton TextFontSize="12"  Text="Not at all" Value="1" CircleSize="14"  />
+                        <input:RadioButton TextFontSize="12" Text="Somewhat" Value="2" CircleSize="14" />
+                        <input:RadioButton TextFontSize="12" Text="Very much" Value="3" CircleSize="14" />
+                    </input:RadioButtonGroupView>
+
+                    <Label Text="Description" Grid.Row="4" Grid.Column="0"/>
+            <Editor  x:Name="EditorDescrptn" BackgroundColor="WhiteSmoke" Grid.Row="4" Grid.Column="1"/>
+
+                    <Button  Text="Submit" Clicked="OnButtonClicked"  BackgroundColor="Blue"  CornerRadius="20" TextColor="Black" Grid.Row="8" Grid.Column="0" WidthRequest="15" />
+                </Grid>-->
+      
+          <!--  </StackLayout>
+        </ScrollView>
+    </ContentView>
+</ContentPage>
+<input:SelectionView SelectionType="RadioButton" ColumnNumber="3" >
+                <input:SelectionView.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Option 1</x:String>
+                        <x:String>Option 1</x:String>
+                        <x:String>Option 1</x:String>
+                    </x:Array>
+                </input:SelectionView.ItemsSource>
+            </input:SelectionView> -->

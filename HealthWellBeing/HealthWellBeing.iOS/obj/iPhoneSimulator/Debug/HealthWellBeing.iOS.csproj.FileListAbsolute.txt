@@ -1,0 +1,267 @@
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.iOS.exe
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.iOS.pdb
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Microcharts.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Microcharts.iOS.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Microcharts.Forms.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.iOS.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Plugin.InputKit.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.dll
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.pdb
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.csprojAssemblyReference.cache
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.csproj.CoreCompileInputs.cache
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.csproj.CopyComplete
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.exe
+C:\Users\A236297\source\repos\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.pdb
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.iOS.exe
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.iOS.pdb
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Microcharts.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Microcharts.iOS.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Microcharts.Forms.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.iOS.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.Forms.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Plugin.InputKit.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.dll
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.pdb
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.dll.mdb
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.csprojResolveAssemblyReference.cache
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.csproj.CoreCompileInputs.cache
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.csproj.CopyComplete
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.exe
+C:\IBM hackthon\Final\HealthWellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.pdb
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.iOS.exe
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.iOS.pdb
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Microcharts.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Microcharts.iOS.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Microcharts.Forms.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.iOS.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Plugin.InputKit.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.dll
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.pdb
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.dll.mdb
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.csprojAssemblyReference.cache
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.csproj.CoreCompileInputs.cache
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.csproj.CopyComplete
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.exe
+C:\Users\A240174\source\Workspaces\MASDCL-AdvInfotree\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.pdb
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.iOS.exe
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.iOS.pdb
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Microcharts.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Microcharts.iOS.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Microcharts.Forms.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.iOS.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.Forms.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\Plugin.InputKit.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.dll
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.pdb
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\bin\iPhoneSimulator\Debug\HealthWellBeing.dll.mdb
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.csprojAssemblyReference.cache
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.csproj.CoreCompileInputs.cache
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.csproj.CopyComplete
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.exe
+C:\Projects\Mobility - Hackathon\InfotreeWebAPI\HealthwellBeing\HealthWellBeing\HealthWellBeing.iOS\obj\iPhoneSimulator\Debug\HealthWellBeing.iOS.pdb

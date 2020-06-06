@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                xmlns:input="clr-namespace:Plugin.InputKit.Shared.Controls;assembly=Plugin.InputKit"
+             x:Class="HealthWellBeing.Views.QuestionList">
+  <ContentView.Content>
+        <Grid VerticalOptions="CenterAndExpand"  
+                 Padding="0"  
+                 HorizontalOptions="FillAndExpand"  
+                 BackgroundColor="Transparent">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Label Margin="2" FontAttributes="Bold"  
+                   Grid.Row="0"  
+                   HorizontalTextAlignment="Start"  
+                   VerticalTextAlignment="Center"  
+                   FontSize="14"  
+                   Text="{Binding Question, Mode = TwoWay}" x:Uid="{Binding Qno}">
+
+            </Label>
+            <Grid Grid.Row="1"  
+                   BackgroundColor="Transparent"  
+                   Padding="4">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <input:RadioButtonGroupView Orientation="Horizontal" HorizontalOptions="FillAndExpand" x:Uid="{Binding Qno}"  Grid.Row="0" Grid.Column="0" >
+                    <input:RadioButton TextFontSize="14"  Text="Not at all" Value="1" CircleSize="14" Clicked="OnButtonClicked" />
+                    <input:RadioButton TextFontSize="14" Text="Somewhat" Value="2" CircleSize="14" Clicked="OnButtonClicked"/>
+                    <input:RadioButton TextFontSize="14" Text="Very much" Value="3" CircleSize="14" Clicked="OnButtonClicked" />
+                </input:RadioButtonGroupView>
+
+
+
+            </Grid>
+
+          
+
+        </Grid>
+      
+    </ContentView.Content>
+</ContentView>

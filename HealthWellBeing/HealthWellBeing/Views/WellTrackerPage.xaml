@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+               xmlns:forms="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms" 
+             x:Class="HealthWellBeing.Views.WellTrackerPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Your Well Being Tracker"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Grid x:Name="gridLayout" HorizontalOptions="FillAndExpand" >
+                <Grid.RowDefinitions>
+
+                    <RowDefinition Height="200"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    
+
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+
+                    <ColumnDefinition Width="*"/>
+                  
+                    <!--<ColumnDefinition Width="100"/>-->
+
+                </Grid.ColumnDefinitions>
+                <forms:ChartView x:Name="MyLineChart" HeightRequest="125" Grid.Row="0" />
+                <Button x:Name="btnBrowse" Text="Chat with Expert" Clicked="OnButtonClicked"  Grid.Row="1"/>
+                <Button x:Name="btnConsulting" Text="Request for Expert Consulting" Clicked="OnConsultingClicked"  Grid.Row="2"/>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
