@@ -35,6 +35,4 @@ This App can be integrated with Aarogyasetu App/ Home quarantine App.
 
 
 ## Demo video
-
-[![Watch the video](https://github.com/PriyankaSingh1111/MentalWellbeing/blob/master/HealthWellBeing/HealthWellBeing.Android/Resources/drawable/happy.png](https://www.youtube.com/watch?v=hhmsBBNwDAw&rel=0)
-
+[![Watch the video](https://github.com/PriyankaSingh1111/MentalWellbeing/blob/master/HealthWellBeing/HealthWellBeing.Android/Resources/drawable/happy.png)](https://www.youtube.com/watch?v=hhmsBBNwDAw&rel=0)
